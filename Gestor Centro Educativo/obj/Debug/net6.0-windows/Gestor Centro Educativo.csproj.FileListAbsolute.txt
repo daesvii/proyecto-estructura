@@ -1,0 +1,101 @@
+C:\Users\WINDOSW 10\Desktop\Gestor Centro Educativo\Gestor Centro Educativo\bin\Debug\net6.0-windows\Gestor Centro Educativo.exe
+C:\Users\WINDOSW 10\Desktop\Gestor Centro Educativo\Gestor Centro Educativo\bin\Debug\net6.0-windows\Gestor Centro Educativo.deps.json
+C:\Users\WINDOSW 10\Desktop\Gestor Centro Educativo\Gestor Centro Educativo\bin\Debug\net6.0-windows\Gestor Centro Educativo.runtimeconfig.json
+C:\Users\WINDOSW 10\Desktop\Gestor Centro Educativo\Gestor Centro Educativo\bin\Debug\net6.0-windows\Gestor Centro Educativo.dll
+C:\Users\WINDOSW 10\Desktop\Gestor Centro Educativo\Gestor Centro Educativo\bin\Debug\net6.0-windows\Gestor Centro Educativo.pdb
+C:\Users\WINDOSW 10\Desktop\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\Gestor Centro Educativo.csproj.AssemblyReference.cache
+C:\Users\WINDOSW 10\Desktop\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\Gestor_Centro_Educativo.Properties.Resources.resources
+C:\Users\WINDOSW 10\Desktop\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\Gestor Centro Educativo.csproj.GenerateResource.cache
+C:\Users\WINDOSW 10\Desktop\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\Gestor Centro Educativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINDOSW 10\Desktop\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\Gestor Centro Educativo.AssemblyInfoInputs.cache
+C:\Users\WINDOSW 10\Desktop\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\Gestor Centro Educativo.AssemblyInfo.cs
+C:\Users\WINDOSW 10\Desktop\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\Gestor Centro Educativo.csproj.CoreCompileInputs.cache
+C:\Users\WINDOSW 10\Desktop\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\Gestor Centro Educativo.dll
+C:\Users\WINDOSW 10\Desktop\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\refint\Gestor Centro Educativo.dll
+C:\Users\WINDOSW 10\Desktop\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\Gestor Centro Educativo.pdb
+C:\Users\WINDOSW 10\Desktop\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\Gestor Centro Educativo.genruntimeconfig.cache
+C:\Users\WINDOSW 10\Desktop\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\ref\Gestor Centro Educativo.dll
+C:\Users\WINDOSW 10\Desktop\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\Gestor_Centro_Educativo.Form2.resources
+C:\Users\WINDOSW 10\Desktop\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\Gestor_Centro_Educativo.tittleBar2.resources
+C:\Users\Daniell\Downloads\Gestor Centro Educativo\Gestor Centro Educativo\Gestor Centro Educativo\bin\Debug\net6.0-windows\Gestor Centro Educativo.exe
+C:\Users\Daniell\Downloads\Gestor Centro Educativo\Gestor Centro Educativo\Gestor Centro Educativo\bin\Debug\net6.0-windows\Gestor Centro Educativo.deps.json
+C:\Users\Daniell\Downloads\Gestor Centro Educativo\Gestor Centro Educativo\Gestor Centro Educativo\bin\Debug\net6.0-windows\Gestor Centro Educativo.runtimeconfig.json
+C:\Users\Daniell\Downloads\Gestor Centro Educativo\Gestor Centro Educativo\Gestor Centro Educativo\bin\Debug\net6.0-windows\Gestor Centro Educativo.dll
+C:\Users\Daniell\Downloads\Gestor Centro Educativo\Gestor Centro Educativo\Gestor Centro Educativo\bin\Debug\net6.0-windows\Gestor Centro Educativo.pdb
+C:\Users\Daniell\Downloads\Gestor Centro Educativo\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\Gestor Centro Educativo.csproj.AssemblyReference.cache
+C:\Users\Daniell\Downloads\Gestor Centro Educativo\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\Gestor_Centro_Educativo.tittleBar2.resources
+C:\Users\Daniell\Downloads\Gestor Centro Educativo\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\Gestor_Centro_Educativo.Form2.resources
+C:\Users\Daniell\Downloads\Gestor Centro Educativo\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\Gestor_Centro_Educativo.Properties.Resources.resources
+C:\Users\Daniell\Downloads\Gestor Centro Educativo\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\Gestor Centro Educativo.csproj.GenerateResource.cache
+C:\Users\Daniell\Downloads\Gestor Centro Educativo\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\Gestor Centro Educativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniell\Downloads\Gestor Centro Educativo\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\Gestor Centro Educativo.AssemblyInfoInputs.cache
+C:\Users\Daniell\Downloads\Gestor Centro Educativo\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\Gestor Centro Educativo.AssemblyInfo.cs
+C:\Users\Daniell\Downloads\Gestor Centro Educativo\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\Gestor Centro Educativo.csproj.CoreCompileInputs.cache
+C:\Users\Daniell\Downloads\Gestor Centro Educativo\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\Gestor Centro Educativo.dll
+C:\Users\Daniell\Downloads\Gestor Centro Educativo\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\refint\Gestor Centro Educativo.dll
+C:\Users\Daniell\Downloads\Gestor Centro Educativo\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\Gestor Centro Educativo.pdb
+C:\Users\Daniell\Downloads\Gestor Centro Educativo\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\Gestor Centro Educativo.genruntimeconfig.cache
+C:\Users\Daniell\Downloads\Gestor Centro Educativo\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\ref\Gestor Centro Educativo.dll
+C:\Users\Daniell\Downloads\Compressed\Gestor Centro Educativo\Gestor Centro Educativo\bin\Debug\net6.0-windows\Gestor Centro Educativo.exe
+C:\Users\Daniell\Downloads\Compressed\Gestor Centro Educativo\Gestor Centro Educativo\bin\Debug\net6.0-windows\Gestor Centro Educativo.deps.json
+C:\Users\Daniell\Downloads\Compressed\Gestor Centro Educativo\Gestor Centro Educativo\bin\Debug\net6.0-windows\Gestor Centro Educativo.runtimeconfig.json
+C:\Users\Daniell\Downloads\Compressed\Gestor Centro Educativo\Gestor Centro Educativo\bin\Debug\net6.0-windows\Gestor Centro Educativo.dll
+C:\Users\Daniell\Downloads\Compressed\Gestor Centro Educativo\Gestor Centro Educativo\bin\Debug\net6.0-windows\Gestor Centro Educativo.pdb
+C:\Users\Daniell\Downloads\Compressed\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\Gestor Centro Educativo.csproj.AssemblyReference.cache
+C:\Users\Daniell\Downloads\Compressed\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\Gestor_Centro_Educativo.tittleBar2.resources
+C:\Users\Daniell\Downloads\Compressed\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\Gestor_Centro_Educativo.Form2.resources
+C:\Users\Daniell\Downloads\Compressed\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\Gestor_Centro_Educativo.Properties.Resources.resources
+C:\Users\Daniell\Downloads\Compressed\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\Gestor Centro Educativo.csproj.GenerateResource.cache
+C:\Users\Daniell\Downloads\Compressed\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\Gestor Centro Educativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniell\Downloads\Compressed\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\Gestor Centro Educativo.AssemblyInfoInputs.cache
+C:\Users\Daniell\Downloads\Compressed\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\Gestor Centro Educativo.AssemblyInfo.cs
+C:\Users\Daniell\Downloads\Compressed\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\Gestor Centro Educativo.csproj.CoreCompileInputs.cache
+C:\Users\Daniell\Downloads\Compressed\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\Gestor Centro Educativo.dll
+C:\Users\Daniell\Downloads\Compressed\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\refint\Gestor Centro Educativo.dll
+C:\Users\Daniell\Downloads\Compressed\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\Gestor Centro Educativo.pdb
+C:\Users\Daniell\Downloads\Compressed\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\Gestor Centro Educativo.genruntimeconfig.cache
+C:\Users\Daniell\Downloads\Compressed\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\ref\Gestor Centro Educativo.dll
+C:\Users\Daniell\Downloads\Compressed\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\Gestor_Centro_Educativo.docente.resources
+C:\Users\Daniell\Downloads\Compressed\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\Gestor_Centro_Educativo.estudiante.resources
+C:\Users\WINDOSW 10\Desktop\4V\Gestor Centro Educativo\Gestor Centro Educativo\bin\Debug\net6.0-windows\Gestor Centro Educativo.exe
+C:\Users\WINDOSW 10\Desktop\4V\Gestor Centro Educativo\Gestor Centro Educativo\bin\Debug\net6.0-windows\Gestor Centro Educativo.deps.json
+C:\Users\WINDOSW 10\Desktop\4V\Gestor Centro Educativo\Gestor Centro Educativo\bin\Debug\net6.0-windows\Gestor Centro Educativo.runtimeconfig.json
+C:\Users\WINDOSW 10\Desktop\4V\Gestor Centro Educativo\Gestor Centro Educativo\bin\Debug\net6.0-windows\Gestor Centro Educativo.dll
+C:\Users\WINDOSW 10\Desktop\4V\Gestor Centro Educativo\Gestor Centro Educativo\bin\Debug\net6.0-windows\Gestor Centro Educativo.pdb
+C:\Users\WINDOSW 10\Desktop\4V\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\Gestor Centro Educativo.csproj.AssemblyReference.cache
+C:\Users\WINDOSW 10\Desktop\4V\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\Gestor_Centro_Educativo.docente.resources
+C:\Users\WINDOSW 10\Desktop\4V\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\Gestor_Centro_Educativo.estudiante.resources
+C:\Users\WINDOSW 10\Desktop\4V\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\Gestor_Centro_Educativo.tittleBar2.resources
+C:\Users\WINDOSW 10\Desktop\4V\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\Gestor_Centro_Educativo.Form2.resources
+C:\Users\WINDOSW 10\Desktop\4V\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\Gestor_Centro_Educativo.Properties.Resources.resources
+C:\Users\WINDOSW 10\Desktop\4V\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\Gestor Centro Educativo.csproj.GenerateResource.cache
+C:\Users\WINDOSW 10\Desktop\4V\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\Gestor Centro Educativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINDOSW 10\Desktop\4V\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\Gestor Centro Educativo.AssemblyInfoInputs.cache
+C:\Users\WINDOSW 10\Desktop\4V\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\Gestor Centro Educativo.AssemblyInfo.cs
+C:\Users\WINDOSW 10\Desktop\4V\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\Gestor Centro Educativo.csproj.CoreCompileInputs.cache
+C:\Users\WINDOSW 10\Desktop\4V\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\Gestor Centro Educativo.dll
+C:\Users\WINDOSW 10\Desktop\4V\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\refint\Gestor Centro Educativo.dll
+C:\Users\WINDOSW 10\Desktop\4V\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\Gestor Centro Educativo.pdb
+C:\Users\WINDOSW 10\Desktop\4V\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\Gestor Centro Educativo.genruntimeconfig.cache
+C:\Users\WINDOSW 10\Desktop\4V\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\ref\Gestor Centro Educativo.dll
+D:\Descargas\5V-20230531T033038Z-001\5V\5v\Gestor Centro Educativo\Gestor Centro Educativo\bin\Debug\net6.0-windows\Gestor Centro Educativo.exe
+D:\Descargas\5V-20230531T033038Z-001\5V\5v\Gestor Centro Educativo\Gestor Centro Educativo\bin\Debug\net6.0-windows\Gestor Centro Educativo.deps.json
+D:\Descargas\5V-20230531T033038Z-001\5V\5v\Gestor Centro Educativo\Gestor Centro Educativo\bin\Debug\net6.0-windows\Gestor Centro Educativo.runtimeconfig.json
+D:\Descargas\5V-20230531T033038Z-001\5V\5v\Gestor Centro Educativo\Gestor Centro Educativo\bin\Debug\net6.0-windows\Gestor Centro Educativo.dll
+D:\Descargas\5V-20230531T033038Z-001\5V\5v\Gestor Centro Educativo\Gestor Centro Educativo\bin\Debug\net6.0-windows\Gestor Centro Educativo.pdb
+D:\Descargas\5V-20230531T033038Z-001\5V\5v\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\Gestor Centro Educativo.csproj.AssemblyReference.cache
+D:\Descargas\5V-20230531T033038Z-001\5V\5v\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\Gestor_Centro_Educativo.docente.resources
+D:\Descargas\5V-20230531T033038Z-001\5V\5v\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\Gestor_Centro_Educativo.estudiante.resources
+D:\Descargas\5V-20230531T033038Z-001\5V\5v\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\Gestor_Centro_Educativo.tittleBar2.resources
+D:\Descargas\5V-20230531T033038Z-001\5V\5v\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\Gestor_Centro_Educativo.Form2.resources
+D:\Descargas\5V-20230531T033038Z-001\5V\5v\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\Gestor_Centro_Educativo.Properties.Resources.resources
+D:\Descargas\5V-20230531T033038Z-001\5V\5v\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\Gestor Centro Educativo.csproj.GenerateResource.cache
+D:\Descargas\5V-20230531T033038Z-001\5V\5v\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\Gestor Centro Educativo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Descargas\5V-20230531T033038Z-001\5V\5v\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\Gestor Centro Educativo.AssemblyInfoInputs.cache
+D:\Descargas\5V-20230531T033038Z-001\5V\5v\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\Gestor Centro Educativo.AssemblyInfo.cs
+D:\Descargas\5V-20230531T033038Z-001\5V\5v\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\Gestor Centro Educativo.csproj.CoreCompileInputs.cache
+D:\Descargas\5V-20230531T033038Z-001\5V\5v\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\Gestor Centro Educativo.dll
+D:\Descargas\5V-20230531T033038Z-001\5V\5v\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\refint\Gestor Centro Educativo.dll
+D:\Descargas\5V-20230531T033038Z-001\5V\5v\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\Gestor Centro Educativo.pdb
+D:\Descargas\5V-20230531T033038Z-001\5V\5v\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\Gestor Centro Educativo.genruntimeconfig.cache
+D:\Descargas\5V-20230531T033038Z-001\5V\5v\Gestor Centro Educativo\Gestor Centro Educativo\obj\Debug\net6.0-windows\ref\Gestor Centro Educativo.dll
